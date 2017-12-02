@@ -1,6 +1,6 @@
 //
 //  main.m
-//  Tutorial 3
+//  
 //
 //  Created by Chris Qiu on 29/11/17.
 //  Copyright © 2017 Chris Qiu. All rights reserved.
